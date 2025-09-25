@@ -1,4 +1,4 @@
-﻿# REPOSITORI SEGURETAT D'APLICACIONS I COMUNICACIONS 
+﻿# REPOSITORI SEGURETAT D'APLICACIONS I COMUNICACIONS (2025-2026)
 
 ## Pràctica 1 Cripto
 Carpeta 22.09, trobaràs tots els exercici en les seves respectives carpetes.
@@ -23,4 +23,5 @@ RepoXifratge/
     └─ ex4/
         └─ ex4.py
 ```
+
 
