@@ -6,7 +6,7 @@ Carpeta 22.09, trobaràs tots els exercici en les seves respectives carpetes.
 ```
 RepoXifratge/
 │
-├─ 22.09/
+└─ 22.09/
     │
     ├─ ex1/
     │   ├─ ex1A.py       
@@ -23,3 +23,4 @@ RepoXifratge/
     └─ ex4/
         └─ ex4.py
 ```
+
