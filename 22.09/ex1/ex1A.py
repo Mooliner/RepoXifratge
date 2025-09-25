@@ -8,7 +8,7 @@ TY ESP OLCV YPLC ESP ELYYSLFDPC RLEP. LWW ESZDP XZXPYED HTWW
 MP WZDE TY ETXP, WTVP EPLCD TY CLTY. ETXP EZ OTP.
 """
 
-# Comptar lletres i números (majúscules/ minúscules normalitzades)
+
 caracters = [c.lower() for c in text if c.lower() in string.ascii_lowercase or c in string.digits]
 freq = Counter(caracters)
 
