@@ -15,13 +15,15 @@ RepoXifratge/
     ├─ ex2/
     │   ├─ ex2A_hom.py
     │   ├─ ex2A_simple.py
-    │   ├─ ex2C.py
     │   └─ text.txt
+    │
     ├─ ex3/
     │   ├─ ex3.py
     │   └─ text.txt
+    │
     └─ ex4/
         └─ ex4.py
 ```
+
 
 
