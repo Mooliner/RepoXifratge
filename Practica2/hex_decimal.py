@@ -1,6 +1,3 @@
-# Programa per convertir un valor hexadecimal (copiat d'OpenSSL) a decimal
-
-# Enganxa aquí el text hexadecimal tal com surt d'OpenSSL:
 hex_text = """
     5d:85:ce:ea:f6:49:e0:f4:d3:76:0c:74:6d:cf:4b:
     ff:1d:34:26:10:18:e6:66:f4:92:77:b9:6a:69:e0:
@@ -13,13 +10,10 @@ hex_text = """
     52:9a:d2:19:20:dd:0a:da
 """
 
-# 1️⃣ Eliminem dos punts, espais i salts de línia
 clean_hex = hex_text.replace(":", "").replace("\n", "").replace(" ", "")
 
-# 2️⃣ Convertim l'hexadecimal net a decimal
 decimal_value = int(clean_hex, 16)
 
-# 3️⃣ Mostrem el resultat
 print("\nHexadecimal net:")
 print(clean_hex)
 print("\nValor decimal:")
